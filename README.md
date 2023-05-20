@@ -1,4 +1,4 @@
-![logo](https://github.com/mbubur7/mbubur7/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+![logo] (https://github.com/mbubur7/mbubur7/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
 <h3 align="center">Ambitious DevOps Maestro from India, conducting operational excellence with passion</h3>
 

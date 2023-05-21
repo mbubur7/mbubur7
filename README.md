@@ -1,4 +1,4 @@
-#![logo]([/profile.png](https://github.com/mbubur7/mbubur7/blob/1ad4a9cb0da4133a7e3f85cd97547db9ba64ed05/profile.png))
+
 <h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
 <h3 align="center">Ambitious DevOps Maestro from India, conducting operational excellence with passion</h3>
 

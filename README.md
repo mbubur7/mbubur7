@@ -1,4 +1,4 @@
-![profile](/profile.png)
+![ScreenShot](/profile.png)
 <h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
 <h3 align="center">Ambitious DevOps Maestro from India, conducting operational excellence with passion</h3>
 
